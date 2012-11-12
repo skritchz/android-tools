@@ -1,0 +1,11 @@
+echo "----------------------------------------------------"
+echo "     DooMLoRD's kernel.sin and FTF creator (v1.0)	  "
+echo "----------------------------------------------------"
+echo "               FOR XPERIA X10 ONLY                  "
+echo "----------------------------------------------------"
+echo "  Credits:                                          "
+echo "     the_laser - sin packer tools                   "
+echo "     Androxyde - FTF packer tools                   "
+echo "     DooMLoRD  - making this easy for all ;)        "
+echo "----------------------------------------------------"
+

@@ -1,0 +1,3 @@
+CREATOR=Skritchz
+BRANDING_NAME=sBootLoader
+VERSION=
