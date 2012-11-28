@@ -2,6 +2,6 @@
 
 function extract {
 	#extract kernel.sin from provided rom
-	echo "Extraction kernel.sin from $ROM_PATH"
-	unzip $ROM_PATH kernel.sin
+	echo "Extraction kernel.sin from $1"
+	unzip $1 kernel.sin
 }
